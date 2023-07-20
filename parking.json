@@ -32,13 +32,11 @@
       "placeType": "POI",
       "category": {
         "losCategory": "car_park",
-        "mguVehicleCategoryId": 11040,
         "name": "Multistorey Car Park"
       },
       "secondaryCategories": [
         {
           "losCategory": "parking",
-          "mguVehicleCategoryId": 11000,
           "name": "Parking"
         }
       ],
@@ -117,7 +115,6 @@
       "placeType": "POI",
       "category": {
         "losCategory": "parking_lot",
-        "mguVehicleCategoryId": 11030,
         "name": "Parking"
       },
       "hasChildrenPois": "NO",
@@ -274,7 +271,6 @@
       "placeType": "POI",
       "category": {
         "losCategory": "car_park",
-        "mguVehicleCategoryId": 11040,
         "name": "Car parks"
       },
       "hasChildrenPois": "NO",
@@ -488,7 +484,6 @@
       "placeType": "POI",
       "category": {
         "losCategory": "car_park",
-        "mguVehicleCategoryId": 11040,
         "name": "Car parks"
       },
       "hasChildrenPois": "NO",
